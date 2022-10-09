@@ -6,13 +6,13 @@
 <p align="center">
   <a href="https://dev.to/consolatacleah">Dev.to</a> -
   <a href="https://www.linkedin.com/in/consolata-gicheru-0a000a198/">Linkedin</a> - 
+  <a href="https://techsmiles453618527.wordpress.com/">Blog</a> - 
   <a href="https://twitter.com/consolatag">Twitter</a>
 </p>
 
-I'm Consolata Gicheru, the young lady who many people have known to be the girl with the unbreakable smile. I discovered my passion in technology after being rejected by medical and law schools.I majorly work with flutter for mobile App Development , Angular for Frontend and Microsoft Technologies such as Microsoft Power Platform,Sharepoint and MsAzure.I'd love to continually  use my skills to make a difference in the community and empower others to use tech and create solutions that enhance their daily productivity. 
+I'm Consolata Gicheru, the young lady who many people have known to be the girl with the unbreakable smile. I majorly work with flutter for mobile App Development and Microsoft Technologies such as Microsoft Power Platform,Sharepoint and MsAzure.I'd love to continually  use my skills to make a difference in the community and empower others to use tech and create solutions that enhance their daily productivity. 
 
  
-- 💬 Ask me about Microsoft Technologies 
 -  ⚡ Fun fact: Always Smiling 
 
 
