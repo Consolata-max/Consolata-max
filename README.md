@@ -14,6 +14,7 @@ I'm Consolata Gicheru, the young lady who many people have known to be the girl 
 
  
 -  ⚡ Fun fact: Always Smiling 
+-  💬 Ask me about Microsoft Technologies
 
 
 
