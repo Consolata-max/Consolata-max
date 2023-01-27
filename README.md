@@ -10,7 +10,7 @@
   <a href="https://twitter.com/consolatag">Twitter</a>
 </p>
 
-I'm Consolata Gicheru, the young lady who many people have known to be the girl with the unbreakable smile. I majorly work with flutter for mobile App Development and Microsoft Technologies such as Microsoft Power Platform,Sharepoint and MsAzure.I'd love to continually  use my skills to make a difference in the community and empower others to use tech and create solutions that enhance their daily productivity. 
+As a techie, I am like a podcast host for the tech-savvy. Just like how a podcast host entertains and informs listeners during their commutes, I use my technical expertise to design, develop, and maintain software solutions that make people's lives easier, more efficient, and more enjoyable. I help people to make the most of their time and to work more productively by providing them with cutting-edge software that addresses their needs and solves their problems. Like a podcast host that can be listened to anytime and anywhere, my software can be used anytime and anywhere to make people's life more convenient and better.
 
  
 -  ⚡ Fun fact: Always Smiling 
