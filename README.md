@@ -6,6 +6,7 @@
 ##
 <p align="center">
   <a href="https://dev.to/consolatacleah">Dev.to</a> -
+  <a href="https://public.tableau.com/app/profile/consolata.gicheru">Tableau</a> -
   <a href="https://www.linkedin.com/in/consolata-gicheru-0a000a198/">Linkedin</a> - 
   <a href="https://techsmiles453618527.wordpress.com/">Blog</a> - 
   <a href="https://twitter.com/consolatag">Twitter</a>
